@@ -1,0 +1,2075 @@
+SAMURAI
+
+THE ULTIMATE 3D PERSONAL GROWTH OPERATING SYSTEM
+
+COMPLETE MASTER DEVELOPMENT PROMPT
+
+Existing Application Transformation | 3D RPG | Demon Slayer Universe | Universal Calendar | Advanced Analytics | Personal Development | Cloud Database
+
+---
+
+SECTION 00 — ROLE, RESPONSIBILITY AND PROJECT OBJECTIVE
+
+Act as a world-class multidisciplinary development team consisting of:
+
+- Senior SaaS product designer.
+- Senior React and TypeScript developer.
+- 3D game interface designer.
+- Three.js and React Three Fiber developer.
+- Backend architect.
+- Database engineer.
+- Authentication specialist.
+- Data visualization engineer.
+- Motion graphics specialist.
+- Animation engineer.
+- UX architect.
+- Mobile application optimization specialist.
+- Quality assurance engineer.
+
+Your responsibility is to transform my EXISTING APPLICATION called SAMURAI into a complete, immersive, premium, interactive 3D personal growth operating system.
+
+This is an existing project.
+
+DO NOT CREATE AN UNRELATED APPLICATION.
+
+Inspect the current application, understand its existing architecture, inspect its database and preserve all existing user information and functionality.
+
+The purpose is not to create a visually attractive landing page.
+
+The purpose is to create a complete application that genuinely manages my daily life, measures my development, records my history and visually represents my evolution through an interactive RPG experience.
+
+The application must be powerful underneath, beautiful on the surface and effortless to use.
+
+NON-NEGOTIABLE DEVELOPMENT PRINCIPLES
+
+1. Every major feature must be functional.
+2. Every navigation item must open a complete working section.
+3. Every habit must have its own historical calendar.
+4. Every task must support scheduling and due dates.
+5. Every goal must have measurable progress and milestones.
+6. Every activity must be connected to the universal calendar.
+7. Every important category must have historical analytics.
+8. Every graph must use real database records.
+9. Every progress bar must represent a clearly defined target.
+10. Every journal entry must remain accessible historically.
+11. Every user-created item must be editable.
+12. All information must persist in the cloud.
+13. The application must start a new user's journey at Week 1, Day 1.
+14. The 3D experience must involve actual interaction and movement.
+15. The interface must remain clean, organized and responsive.
+
+Do not substitute working features with decorative components.
+
+Do not claim functionality exists unless it actually works.
+
+---
+
+SECTION 01 — THE COMPLETE PRODUCT VISION
+
+SAMURAI should be a combination of:
+
+1. A personal productivity application.
+2. A daily habit tracker.
+3. A goal management system.
+4. A personal journal.
+5. An academic progress tracker.
+6. A fitness tracking platform.
+7. A health and wellness tracker.
+8. A personal analytics platform.
+9. A life calendar.
+10. A personal development RPG.
+11. An interactive 3D gaming environment.
+12. A long-term personal history and memory system.
+
+The application should make it possible to understand my entire life through actual recorded activities.
+
+I should be able to open SAMURAI and immediately understand:
+
+- What have I accomplished today?
+- Which habits have I completed?
+- Which habits remain?
+- What tasks are pending?
+- What deadlines are approaching?
+- How much progress have I made towards my goals?
+- How many hours have I studied?
+- How frequently have I worked out?
+- How consistent have I been this month?
+- Where am I improving?
+- Where am I falling behind?
+- What did I learn?
+- What mistakes did I make?
+- How has my character evolved?
+- How much have I improved since I started?
+
+The application must answer these questions using actual historical information.
+
+---
+
+SECTION 02 — VISUAL IDENTITY: DEMON SLAYER INSPIRED 3D RPG
+
+2.1 Overall visual direction
+
+Create an original, immersive Japanese anime-inspired gaming universe based on the visual atmosphere of DEMON SLAYER (Kimetsu no Yaiba).
+
+The application must feel like a real RPG game, not a conventional SaaS dashboard with a dark background.
+
+Visual references should include:
+
+- Demon Slayer's Japanese environments.
+- Traditional Japanese architecture.
+- Beautiful forests.
+- Mountain landscapes.
+- Ancient temples.
+- Japanese lanterns.
+- Atmospheric mist.
+- Dramatic skies.
+- Cherry blossoms.
+- Glowing progression objects.
+- Detailed character presentations.
+- Cinematic environments.
+- Premium fantasy game interfaces.
+
+Use recognizable Demon Slayer characters where suitable licensed assets are available. Otherwise, use original, legally usable anime-inspired character artwork. Do not silently substitute unrelated generic characters.
+
+2.2 Design language
+
+Use a sophisticated combination of:
+
+- Deep charcoal.
+- Crimson red.
+- Muted purple.
+- Soft grey.
+- Warm gold.
+- Japanese-inspired neutral colors.
+- Subtle gradients.
+- Premium typography.
+- Layered glass surfaces.
+- Controlled lighting.
+- Real depth and perspective.
+
+Avoid excessive glowing effects, excessive cards, unnecessary gradients and clutter.
+
+2.3 Genuine 3D implementation
+
+Use technologies such as:
+
+- Three.js.
+- React Three Fiber.
+- Drei.
+- Framer Motion.
+- WebGL.
+- CSS 3D transforms where appropriate.
+
+Use actual 3D geometry, camera positioning, depth, lighting, textures and interactive elements.
+
+Do not call a static image with a CSS shadow a 3D experience.
+
+---
+
+SECTION 03 — THE INTERACTIVE 3D WORLD
+
+3.1 Main world
+
+Create a beautiful Japanese fantasy environment that acts as the main navigation world.
+
+The environment may include:
+
+- A central Japanese village.
+- A training dojo.
+- A forest pathway.
+- A mountain temple.
+- A library.
+- A fitness arena.
+- A peaceful reflection garden.
+- A progression sanctuary.
+- A character chamber.
+
+The world should have depth, scale and visual hierarchy.
+
+3.2 Interactive locations
+
+Create individual 3D destinations:
+
+1. Home Base.
+2. Training Grounds.
+3. Mission Board.
+4. Goal Shrine.
+5. Reflection Garden.
+6. Knowledge Temple.
+7. Fitness Arena.
+8. Health Sanctuary.
+9. Journey Hall.
+10. Progress Observatory.
+11. Growth Map.
+12. Samurai Chamber.
+13. Settings Sanctuary.
+
+3.3 Movement and navigation
+
+When a user selects a destination:
+
+- The camera should move towards the selected location.
+- The scene should transition smoothly.
+- The environment should react to navigation.
+- The destination should open with an animated entrance.
+- The user should be able to return to the main world.
+- Navigation should preserve the selected page's state.
+
+Do not simply replace one static background with another.
+
+3.4 Environmental animations
+
+Add suitable animations:
+
+- Floating leaves.
+- Moving clouds.
+- Gentle wind.
+- Lantern movement.
+- Cherry blossom particles.
+- Atmospheric fog.
+- Water movement.
+- Character idle animations.
+- Lighting transitions.
+- Subtle environmental reactions.
+
+3.5 Mobile optimization
+
+Use optimized geometry, textures and lighting.
+
+Provide a simplified rendering mode for weaker devices.
+
+Preserve the 3D identity even when advanced effects are disabled.
+
+---
+
+SECTION 04 — COMPLETE APPLICATION NAVIGATION
+
+Create a unified application with these main sections:
+
+1. Home.
+2. Calendar.
+3. Habits.
+4. Tasks.
+5. Goals.
+6. Reflection.
+7. Academics.
+8. Fitness.
+9. Health.
+10. My Journey.
+11. Growth Map.
+12. Analytics.
+13. Samurai.
+14. Settings.
+
+Each section must be a complete functional page.
+
+Use a clean desktop sidebar, intuitive mobile navigation and a consistent page layout.
+
+Do not hide important functionality behind complicated menus.
+
+Use breadcrumbs or clear back navigation where appropriate.
+
+Include a global Quick Add button.
+
+Quick Add must support:
+
+- New habit.
+- New task.
+- New goal.
+- Journal entry.
+- Study session.
+- Workout.
+- Personal milestone.
+- Calendar event.
+
+---
+
+SECTION 05 — HOME: PERSONAL COMMAND CENTER
+
+Create an intelligent dashboard that summarizes my entire day.
+
+5.1 Welcome area
+
+Display:
+
+- Date.
+- Greeting.
+- Current journey week.
+- Current journey day.
+- Current character.
+- Current level.
+- Total XP.
+
+5.2 Daily performance
+
+Display:
+
+- Daily completion percentage.
+- Habits completed.
+- Tasks completed.
+- Goals progressed.
+- Study hours.
+- Workout status.
+- Journal status.
+
+5.3 Visual progress
+
+Include:
+
+- Daily circular progress indicator.
+- Weekly performance graph.
+- Habit completion bar.
+- Goal progress bar.
+- Academic progress bar.
+- Fitness progress bar.
+- XP progression bar.
+
+5.4 Daily mission board
+
+Show:
+
+- Today's habits.
+- Today's tasks.
+- Upcoming deadlines.
+- Scheduled workouts.
+- Study targets.
+- Personal priorities.
+
+Allow direct completion and editing from the dashboard.
+
+5.5 Dashboard customization
+
+Allow adding, hiding, removing, rearranging and resizing widgets where supported.
+
+Save dashboard preferences permanently.
+
+The home screen must remain clean and avoid displaying every available statistic simultaneously.
+
+---
+
+SECTION 06 — UNIVERSAL LIFE CALENDAR
+
+ABSOLUTELY CRITICAL: THE CALENDAR MUST CONTROL THE ENTIRE APPLICATION.
+
+The current implementation must not restrict the calendar to journaling.
+
+Create one central UNIVERSAL CALENDAR that connects all modules.
+
+The universal calendar is the main historical record of my daily activities.
+
+6.1 Calendar coverage
+
+The calendar must include:
+
+- Habits.
+- Individual habit occurrences.
+- Completed habits.
+- Missed habits.
+- Pending habits.
+- Tasks.
+- Task deadlines.
+- Overdue tasks.
+- Goal deadlines.
+- Goal milestones.
+- Goal progress updates.
+- Journal entries.
+- Reflection answers.
+- Study sessions.
+- Academic assignments.
+- Exams.
+- Workouts.
+- Fitness milestones.
+- Health records.
+- Personal achievements.
+- Custom events.
+
+6.2 Calendar views
+
+Provide:
+
+1. Daily view.
+2. Weekly view.
+3. Monthly view.
+4. Yearly view.
+5. Agenda view.
+6. Upcoming activities view.
+
+6.3 Monthly calendar
+
+Each date should display subtle visual indicators for its activities.
+
+Use different icons and colors for:
+
+- Habits.
+- Tasks.
+- Goals.
+- Academics.
+- Fitness.
+- Health.
+- Journal.
+- Milestones.
+
+Allow users to click a date and open its detailed activity panel.
+
+6.4 Daily activity panel
+
+When I select a date, show everything recorded on that date.
+
+Example:
+
+NOVEMBER 11, 2026
+
+HABITS
+
+- Morning workout — Completed.
+- Python practice — Completed.
+- Reading — Pending.
+- Meditation — Completed.
+
+TASKS
+
+- Complete mathematics assignment — Completed.
+- Finish coding exercise — Pending.
+
+GOALS
+
+- Handstand progression — Progress updated.
+- Complete academic syllabus — Current progress.
+
+ACADEMICS
+
+- Study session — 2 hours.
+- Mathematics topic — Completed.
+
+FITNESS
+
+- Calisthenics workout — Recorded.
+
+JOURNAL
+
+- Daily reflection — Saved.
+
+HEALTH
+
+- Sleep — Recorded.
+- Hydration — Recorded.
+
+These are examples of layout only. Never insert them as actual user activity.
+
+6.5 Calendar interactions
+
+From any selected date, allow users to:
+
+- Add a habit.
+- Schedule a task.
+- Change a deadline.
+- Schedule a workout.
+- Record a study session.
+- Create a goal milestone.
+- Write a journal entry.
+- Add a custom event.
+- Mark an activity complete.
+- Edit an existing record.
+- View historical records.
+
+6.6 Calendar filters
+
+Allow filtering by:
+
+- All activities.
+- Habits.
+- Tasks.
+- Goals.
+- Academics.
+- Fitness.
+- Health.
+- Journaling.
+- Achievements.
+
+Allow multiple filters simultaneously.
+
+6.7 Calendar history
+
+Allow navigating to previous months and years.
+
+Never replace historical data with current data.
+
+Show completed, scheduled, missed and unscheduled days distinctly.
+
+6.8 Calendar synchronization
+
+The calendar must read from actual module records.
+
+Do not create disconnected duplicate events that become inconsistent with their source records.
+
+Every calendar item should link to its original activity.
+
+When a source record is edited or rescheduled, update its calendar representation.
+
+Preserve the history of meaningful changes.
+
+---
+
+SECTION 07 — INDIVIDUAL CALENDAR FOR EVERY HABIT
+
+This requirement is mandatory.
+
+Every habit must have its own detailed historical calendar.
+
+When I open a habit, I must be able to see its entire completion history.
+
+7.1 Individual habit calendar
+
+Display:
+
+- Monthly calendar.
+- Yearly heatmap.
+- Completed days.
+- Missed scheduled days.
+- Partial completions.
+- Unscheduled days.
+- Historical notes.
+
+7.2 Individual habit statistics
+
+Show:
+
+- Total scheduled occurrences.
+- Total completed occurrences.
+- Completion percentage.
+- Current streak.
+- Longest streak.
+- Weekly consistency.
+- Monthly consistency.
+- Yearly consistency.
+- Total active days.
+
+7.3 Habit history interaction
+
+Clicking a date should show:
+
+- Whether the habit was scheduled.
+- Whether it was completed.
+- Actual completion timestamp.
+- Recorded numerical progress if applicable.
+- Notes.
+- Any historical correction.
+
+Allow authorized historical corrections with audit history.
+
+7.4 Habit heatmap
+
+Create a GitHub-style annual contribution heatmap.
+
+Intensity should reflect actual completion data.
+
+Do not classify unscheduled days as missed.
+
+Suggested visual states:
+
+- Strong green: completed.
+- Yellow: partially completed.
+- Red: scheduled but missed.
+- Grey: not scheduled.
+- Neutral: no historical information.
+
+Make the color system customizable.
+
+---
+
+SECTION 08 — COMPLETE HABITS MANAGEMENT
+
+Create an independent HABITS page.
+
+8.1 Habit creation
+
+Allow unlimited custom habits.
+
+Each habit should support:
+
+- Name.
+- Description.
+- Category.
+- Icon.
+- Color.
+- Start date.
+- Schedule.
+- Frequency.
+- Weekly target.
+- Daily target.
+- Reminder.
+- Priority.
+- Notes.
+
+8.2 Scheduling
+
+Support:
+
+- Every day.
+- Selected weekdays.
+- Specific days per week.
+- Custom recurrence.
+- Start and end dates.
+- Paused periods.
+
+8.3 Completion
+
+Allow:
+
+- Complete.
+- Undo completion.
+- Partial completion.
+- Numerical tracking.
+- Add notes.
+- Historical correction.
+
+8.4 Habit dashboard
+
+Separate:
+
+- Today's habits.
+- Completed.
+- Pending.
+- Missed.
+- Paused.
+- Archived.
+
+8.5 Habit analytics
+
+Create graphs for:
+
+- Daily completion.
+- Weekly performance.
+- Monthly performance.
+- Annual consistency.
+- Individual habit trends.
+- Category-wise completion.
+- Current versus previous period.
+
+8.6 Habit management
+
+Allow:
+
+- Editing.
+- Renaming.
+- Deleting.
+- Archiving.
+- Pausing.
+- Changing schedules.
+- Changing targets.
+- Changing icons.
+- Changing categories.
+
+Historical occurrences must remain preserved after edits.
+
+---
+
+SECTION 09 — TASK MANAGEMENT
+
+Create a complete TASKS section.
+
+9.1 Task creation
+
+Fields:
+
+- Title.
+- Description.
+- Category.
+- Priority.
+- Start date.
+- Due date.
+- Due time.
+- Status.
+- Tags.
+- Optional notes.
+
+9.2 Task organization
+
+Create views:
+
+- Today.
+- Upcoming.
+- This week.
+- Completed.
+- Overdue.
+- All tasks.
+
+9.3 Task operations
+
+Allow:
+
+- Create.
+- Edit.
+- Delete.
+- Complete.
+- Undo completion.
+- Reschedule.
+- Change priority.
+- Add subtasks.
+- Set recurring tasks.
+- Set reminders.
+
+9.4 Task calendar
+
+Every task must appear on the universal calendar.
+
+Show deadlines clearly.
+
+Allow dragging or rescheduling where supported.
+
+9.5 Task analytics
+
+Display:
+
+- Completed task count.
+- Pending task count.
+- Overdue task count.
+- Daily completion.
+- Weekly completion.
+- Monthly completion.
+- On-time completion rate.
+- Task category performance.
+
+---
+
+SECTION 10 — COMPLETE GOAL MANAGEMENT
+
+Create a dedicated GOALS section.
+
+10.1 Goal types
+
+Support:
+
+- Daily goals.
+- Weekly goals.
+- Monthly goals.
+- Quarterly goals.
+- Annual goals.
+- Long-term goals.
+
+10.2 Goal categories
+
+Provide editable defaults:
+
+- Academics.
+- Fitness.
+- Health.
+- Discipline.
+- Knowledge.
+- Creativity.
+- Content Creation.
+- Personal Development.
+- Spirituality.
+- Custom.
+
+10.3 Goal details
+
+Every goal should have:
+
+- Title.
+- Description.
+- Category.
+- Start date.
+- Deadline.
+- Target.
+- Current value.
+- Unit.
+- Priority.
+- Status.
+- Milestones.
+- Notes.
+
+10.4 Goal milestones
+
+Allow dividing goals into smaller measurable steps.
+
+Each milestone must have:
+
+- Name.
+- Description.
+- Target date.
+- Completion state.
+- Completion timestamp.
+
+10.5 Goal progress
+
+Display:
+
+- Animated progress bar.
+- Percentage.
+- Current value.
+- Target value.
+- Remaining amount.
+- Deadline.
+- Milestone completion.
+
+10.6 Goal history
+
+Record every meaningful progress update.
+
+Allow viewing progress changes over time.
+
+10.7 Goal calendar
+
+Every goal deadline and milestone must appear on the universal calendar.
+
+Allow creating and rescheduling milestones directly from the calendar.
+
+10.8 Goal analytics
+
+Display:
+
+- Active goals.
+- Completed goals.
+- Overdue goals.
+- Goal completion percentage.
+- Category-wise progress.
+- Milestone completion.
+- Historical progress graph.
+
+---
+
+SECTION 11 — REFLECTION GARDEN
+
+Create one dedicated REFLECTION section with three major subsections.
+
+11.1 PERSONAL JOURNAL
+
+Create a complete private digital diary.
+
+Features:
+
+- Unlimited journal entries.
+- Title.
+- Rich text.
+- Long-form writing.
+- Headings.
+- Lists.
+- Tags.
+- Mood.
+- Optional images.
+- Search.
+- Filters.
+- Pinning.
+- Editing.
+- Deletion with confirmation.
+- Automatic saving.
+
+Display journals chronologically.
+
+Each entry should contain:
+
+- Creation date.
+- Creation time.
+- Last edited timestamp.
+- Preview.
+- Tags.
+- Mood.
+
+Never overwrite previous entries.
+
+11.2 DAILY REFLECTION QUESTIONS
+
+Provide default questions:
+
+1. What did I accomplish today?
+2. What did I learn today?
+3. What mistakes did I make?
+4. What could I have done better?
+5. What am I grateful for?
+6. Did I follow my daily habits?
+7. What challenged me today?
+8. What did I avoid doing?
+9. What is my biggest priority tomorrow?
+10. How would I rate my day out of 10?
+
+Allow complete customization.
+
+Users can:
+
+- Add questions.
+- Edit questions.
+- Delete questions.
+- Rearrange questions.
+- Disable questions.
+- Make questions optional.
+- Assign questions to categories.
+
+Save answers independently for every date.
+
+11.3 SELF-REFLECTION
+
+Create a dedicated area for deeper personal evaluation.
+
+Include:
+
+- My strengths.
+- My weaknesses.
+- My mistakes.
+- My fears.
+- Lessons learned.
+- Emotional observations.
+- Personal achievements.
+- Things I need to improve.
+- My future aspirations.
+- My relationship with discipline.
+- My personal values.
+
+Allow unlimited writing.
+
+11.4 JOURNAL CALENDAR
+
+Provide a journal-specific calendar.
+
+It must also connect to the universal calendar.
+
+Clicking a date must show all journal entries and reflection answers for that date.
+
+11.5 HISTORICAL REVIEW
+
+Allow reviewing:
+
+- Previous weeks.
+- Previous months.
+- Six-month history.
+- Annual history.
+- Selected date ranges.
+
+Never overwrite historical reflection answers when questions are changed.
+
+Preserve question snapshots or stable question references so old answers remain understandable.
+
+---
+
+SECTION 12 — ACADEMICS AND LEARNING
+
+Create a complete independent ACADEMICS dashboard.
+
+12.1 Academic organization
+
+Allow creating:
+
+- Subjects.
+- Units.
+- Chapters.
+- Topics.
+- Assignments.
+- Exams.
+- Projects.
+- Learning categories.
+
+12.2 Study sessions
+
+Record:
+
+- Subject.
+- Topic.
+- Date.
+- Start time.
+- End time.
+- Duration.
+- Notes.
+- Session type.
+
+12.3 Academic progress
+
+Show:
+
+- Subject-wise progress bars.
+- Topics completed.
+- Topics pending.
+- Assignments completed.
+- Upcoming exams.
+- Study targets.
+
+12.4 Academic analytics
+
+Create:
+
+- Daily study-hours graph.
+- Weekly study-hours graph.
+- Monthly study-hours graph.
+- Yearly study-hours graph.
+- Subject-wise comparison.
+- Topic completion graph.
+- Assignment completion graph.
+- Study consistency heatmap.
+
+12.5 Academic calendar
+
+All study sessions, assignment due dates, exams and academic milestones must appear on the universal calendar.
+
+12.6 Academic targets
+
+Allow setting weekly and monthly study-hour targets.
+
+Compare actual study hours against targets.
+
+---
+
+SECTION 13 — FITNESS AND PHYSICAL DEVELOPMENT
+
+Create a dedicated FITNESS dashboard.
+
+13.1 Workout categories
+
+- Gym.
+- Calisthenics.
+- Strength Training.
+- Cardio.
+- Walking.
+- Running.
+- Mobility.
+- Flexibility.
+- Custom.
+
+13.2 Workout recording
+
+Record:
+
+- Workout name.
+- Exercise.
+- Date.
+- Sets.
+- Repetitions.
+- Weight.
+- Duration.
+- Distance.
+- Notes.
+- Personal records.
+
+13.3 Skill progression
+
+Create individual progression trackers for:
+
+- Handstand.
+- Muscle-up.
+- Pull-ups.
+- Push-ups.
+- Other custom skills.
+
+13.4 Fitness progress
+
+Display:
+
+- Weekly workout frequency.
+- Monthly consistency.
+- Workout duration.
+- Exercise performance.
+- Strength progression.
+- Personal records.
+- Skill milestones.
+
+13.5 Fitness graphs
+
+Include:
+
+- Weekly workouts.
+- Monthly workouts.
+- Workout duration trends.
+- Exercise progression.
+- Strength trends where measurable.
+- Fitness consistency heatmap.
+
+13.6 Fitness calendar
+
+Every workout, scheduled session, personal record and fitness milestone must appear on the universal calendar.
+
+---
+
+SECTION 14 — HEALTH AND WELLNESS
+
+Create a separate HEALTH dashboard.
+
+Track:
+
+- Sleep duration.
+- Sleep quality.
+- Hydration.
+- Nutrition.
+- Recovery.
+- General wellness.
+- Custom metrics.
+
+Allow setting individual targets.
+
+Display:
+
+- Daily records.
+- Weekly averages.
+- Monthly averages.
+- Historical trends.
+- Target versus actual.
+
+Every health record must have its own date and must be accessible through the universal calendar.
+
+Do not generate health statistics without actual user records.
+
+---
+
+SECTION 15 — GLOBAL ANALYTICS AND PROGRESS OBSERVATORY
+
+THIS IS A CORE FEATURE.
+
+Build a dedicated analytics system that visually shows how much I have improved.
+
+Do not simply display a few generic progress cards.
+
+I want detailed, interactive, historical graphs.
+
+15.1 Global life progress
+
+Display separate progress areas for:
+
+1. Habits.
+2. Tasks.
+3. Goals.
+4. Academics.
+5. Fitness.
+6. Health.
+7. Discipline.
+8. Knowledge.
+9. Journaling.
+10. Content Creation.
+11. Creativity.
+12. Personal Development.
+
+15.2 Overall progress
+
+Create an overall life progress score using configurable measurable categories.
+
+The calculation must be transparent.
+
+Do not average unrelated raw measurements.
+
+Use normalized target completion or another clearly defined method.
+
+Allow enabling or disabling categories from the overall score.
+
+15.3 Time-period controls
+
+Provide:
+
+- Today.
+- Last 7 days.
+- This week.
+- Last week.
+- This month.
+- Last month.
+- Last 3 months.
+- Last 6 months.
+- This year.
+- Last year.
+- Custom date range.
+
+15.4 Daily analytics
+
+Show:
+
+- Activities completed.
+- Habits completed.
+- Tasks completed.
+- Study hours.
+- Workout duration.
+- Goals progressed.
+- Journal activity.
+
+15.5 Weekly analytics
+
+Show seven-day graphs.
+
+Include:
+
+- Daily habit completion.
+- Daily task completion.
+- Study hours.
+- Workout frequency.
+- Goal progress.
+- Overall consistency.
+
+15.6 Monthly analytics
+
+Show:
+
+- Weekly performance within the month.
+- Daily activity trends.
+- Habit consistency.
+- Task completion.
+- Goal achievement.
+- Study hours.
+- Fitness consistency.
+
+15.7 Yearly analytics
+
+Show month-by-month development.
+
+Include:
+
+- Total completed habits.
+- Total completed tasks.
+- Goals achieved.
+- Study hours.
+- Workout sessions.
+- Journal entries.
+- XP earned.
+- Milestones unlocked.
+
+15.8 Period comparison
+
+Allow comparing:
+
+- Current week versus previous week.
+- Current month versus previous month.
+- Current year versus previous year.
+- Any two custom date ranges.
+
+Display percentage differences and actual values.
+
+Avoid misleading comparisons when periods have different numbers of scheduled days.
+
+15.9 Individual progress analytics
+
+Every habit, goal, subject, fitness skill and category must have its own detailed analytics.
+
+15.10 Interactive graphs
+
+Every graph must support:
+
+- Tap or hover tooltips.
+- Exact values.
+- Date labels.
+- Legends.
+- Category filters.
+- Date-range filters.
+- Empty states.
+- Responsive layouts.
+
+15.11 Progress heatmaps
+
+Provide:
+
+- Annual activity heatmap.
+- Habit-specific heatmaps.
+- Study consistency heatmap.
+- Fitness consistency heatmap.
+- Overall activity heatmap.
+
+15.12 Target versus actual
+
+Every measurable target should display:
+
+- Target.
+- Actual.
+- Remaining amount.
+- Completion percentage.
+- Historical trend.
+
+15.13 Accuracy requirements
+
+Never create fake progress.
+
+Never fill missing days with artificial activity.
+
+Distinguish between zero performance, missed scheduled activity, unscheduled days and missing data.
+
+Use real saved records only.
+
+---
+
+SECTION 16 — MY JOURNEY: COMPLETE PERSONAL HISTORY
+
+Create a dedicated MY JOURNEY section.
+
+This is the chronological record of my evolution.
+
+Record:
+
+- Habit creation.
+- Habit completion.
+- Habit edits.
+- Task completion.
+- Goal creation.
+- Goal milestones.
+- Journal creation.
+- Journal edits.
+- Study sessions.
+- Academic achievements.
+- Workout records.
+- Personal records.
+- Health tracking.
+- XP rewards.
+- Character evolution.
+- Achievement unlocks.
+- Personal milestones.
+
+Every activity should contain:
+
+- Unique record ID.
+- Actual date.
+- Exact timestamp.
+- Category.
+- Description.
+- Relevant before and after values.
+- Source record reference.
+
+Provide category filters and historical search.
+
+Allow reviewing any date range.
+
+Do not fabricate historical activity.
+
+---
+
+SECTION 17 — INTERACTIVE 3D GROWTH MAP
+
+Create a dedicated interactive Growth Map.
+
+Represent personal development as a 3D world with interconnected progression locations.
+
+Possible locations:
+
+- Fitness Dojo.
+- Academic Temple.
+- Discipline Sanctuary.
+- Knowledge Library.
+- Health Garden.
+- Creativity Studio.
+- Reflection Garden.
+- Personal Development Mountain.
+
+Each location must show actual progress.
+
+Include:
+
+- Current progress.
+- Milestones.
+- Completed objectives.
+- Upcoming objectives.
+- Historical development.
+- Achievement indicators.
+
+Allow adding custom locations and categories.
+
+Clicking a location should open its full analytics and related records.
+
+Use camera movement, glowing progression paths and animated milestones.
+
+Keep the map understandable and uncluttered.
+
+---
+
+SECTION 18 — SAMURAI CHARACTER EVOLUTION
+
+Preserve the existing character progression system and all historical character records.
+
+18.1 Week-based progression
+
+One week equals one level.
+
+52 weeks equals 52 progression levels.
+
+For new accounts:
+
+- Week 1.
+- Day 1.
+- Level 1.
+- Zero XP.
+- Initial character state.
+- No pre-completed achievements.
+
+18.2 Start date
+
+The official journey start date is recorded when the user first initializes their account.
+
+It must not reset when the user logs out, reinstalls the application or changes devices.
+
+Calculate the week from the saved start date.
+
+18.3 Character system
+
+Include Demon Slayer characters where appropriately licensed and available:
+
+- Tanjiro.
+- Zenitsu.
+- Inosuke.
+- Giyu.
+- Rengoku.
+- Shinobu.
+- Muichiro.
+- Mitsuri.
+- Sanemi.
+- Obanai.
+- Gyomei.
+
+Preserve character history and unlocked forms.
+
+18.4 Breathing paths
+
+Create separate paths:
+
+- Fitness Breathing.
+- Mind Breathing.
+- Discipline Breathing.
+- Health Breathing.
+- Academics Breathing.
+- Creator Breathing.
+
+18.5 Character progression
+
+Connect character progression to real activities.
+
+Include:
+
+- XP.
+- Levels.
+- Unlockable stages.
+- Character history.
+- Achievements.
+- Weekly evolution.
+- Awakening animations.
+
+Prevent duplicate XP rewards.
+
+Do not grant XP merely for opening the application.
+
+---
+
+SECTION 19 — MISSION AND REWARD SYSTEM
+
+Create a proper RPG mission system.
+
+Allow converting habits and goals into missions.
+
+Provide:
+
+- Daily missions.
+- Weekly missions.
+- Monthly missions.
+- Personal challenges.
+- Long-term missions.
+
+Every mission must have:
+
+- Objective.
+- Category.
+- Deadline.
+- Completion condition.
+- Reward.
+- Status.
+
+Use actual completed activity to determine whether a mission is complete.
+
+Display earned rewards and achievement history.
+
+Allow customizing mission names, difficulty and reward rules.
+
+---
+
+SECTION 20 — COMPLETE CUSTOMIZATION
+
+Almost everything must be editable.
+
+Allow users to customize:
+
+- Habits.
+- Goals.
+- Tasks.
+- Categories.
+- Icons.
+- Colors.
+- Schedules.
+- Targets.
+- Journal tags.
+- Reflection questions.
+- Academic subjects.
+- Fitness categories.
+- Health metrics.
+- Growth map locations.
+- Dashboard widgets.
+- Analytics preferences.
+- Character paths where supported.
+- Mission categories.
+
+Provide dedicated settings.
+
+Default categories must be editable, not permanently hardcoded.
+
+Provide archive and recovery options where appropriate.
+
+---
+
+SECTION 21 — GOOGLE AUTHENTICATION AND CLOUD STORAGE
+
+Use a production-ready backend such as Supabase or Firebase.
+
+21.1 Authentication
+
+Implement:
+
+- Continue with Google.
+- Secure OAuth.
+- Session persistence.
+- Logout.
+- Account management.
+- Authentication error handling.
+
+21.2 Permanent cloud data
+
+Every user record must be linked to the authenticated account.
+
+Persist all:
+
+- Habits.
+- Habit occurrences.
+- Tasks.
+- Goals.
+- Milestones.
+- Calendar records.
+- Journals.
+- Reflection questions.
+- Reflection answers.
+- Study sessions.
+- Academic records.
+- Workouts.
+- Health records.
+- XP.
+- Characters.
+- Achievements.
+- Settings.
+- Dashboard preferences.
+- Analytics history.
+
+21.3 Cross-device synchronization
+
+Logging in with the same Google account on another device must restore the entire account.
+
+Uninstalling the application must not delete cloud records.
+
+Logging out must not delete user information.
+
+21.4 Database security
+
+Implement user-specific database access policies.
+
+A user must never access another user's private records.
+
+Never expose service-role keys or private credentials in frontend code.
+
+21.5 Offline support
+
+Where supported:
+
+- Cache essential data.
+- Allow recording activities offline.
+- Queue pending changes.
+- Synchronize when online.
+- Handle conflicts safely.
+- Never silently discard user input.
+
+21.6 Backup and export
+
+Provide data export and backup where supported.
+
+Allow exporting important personal records in useful formats.
+
+---
+
+SECTION 22 — DATABASE ARCHITECTURE
+
+Use stable unique identifiers and a properly normalized schema.
+
+Suggested entities:
+
+1. Users.
+2. User profiles.
+3. Journey settings.
+4. Habits.
+5. Habit schedules.
+6. Habit occurrences.
+7. Habit history.
+8. Tasks.
+9. Task history.
+10. Goals.
+11. Goal milestones.
+12. Goal progress history.
+13. Calendar events or linked calendar projections.
+14. Journal entries.
+15. Reflection questions.
+16. Reflection answers.
+17. Academic subjects.
+18. Academic topics.
+19. Study sessions.
+20. Assignments.
+21. Exams.
+22. Workouts.
+23. Exercises.
+24. Fitness records.
+25. Health records.
+26. Custom categories.
+27. Achievements.
+28. XP transactions.
+29. Character progression.
+30. Mission records.
+31. Activity history.
+32. Dashboard preferences.
+33. Analytics preferences.
+34. Notification settings.
+
+Use foreign keys and appropriate indexes.
+
+Use transactions for related updates.
+
+Maintain historical snapshots where current editable definitions could otherwise change the meaning of previous records.
+
+Never overwrite an old occurrence simply because the parent habit has been renamed or rescheduled.
+
+Use safe, non-destructive database migrations.
+
+---
+
+SECTION 23 — PROGRESS CALCULATION RULES
+
+This section is extremely important.
+
+Every displayed metric must have a defined calculation.
+
+Examples:
+
+Habit completion percentage:
+
+Completed scheduled occurrences / Total eligible scheduled occurrences × 100.
+
+Task completion percentage:
+
+Completed tasks / Total tasks in the selected reporting period × 100.
+
+Goal progress:
+
+Actual recorded value / Target value × 100, capped or displayed appropriately according to the target type.
+
+Study target completion:
+
+Actual study hours / Target study hours × 100.
+
+Workout consistency:
+
+Completed scheduled workout sessions / Scheduled workout sessions × 100.
+
+Overall progress:
+
+Use configurable, normalized category scores with clearly disclosed weights.
+
+Do not mix raw hours, task counts and percentages without normalization.
+
+Do not count unscheduled days as failures.
+
+Do not treat an archived habit as a current missed habit.
+
+Do not double-count a calendar event and its original activity record.
+
+Allow the user to inspect how a score was calculated.
+
+---
+
+SECTION 24 — CLEAN AND PREMIUM USER EXPERIENCE
+
+The application has many features, but its interface must remain simple.
+
+24.1 Visual hierarchy
+
+Prioritize:
+
+1. Current action.
+2. Current progress.
+3. Upcoming responsibilities.
+4. Historical performance.
+5. Secondary information.
+
+24.2 Avoid clutter
+
+Do not create:
+
+- Repetitive cards.
+- Unnecessary widgets.
+- Duplicate analytics.
+- Excessive headings.
+- Unused navigation pages.
+- Decorative charts with no data.
+- Unnecessary popups.
+- Overcomplicated settings.
+- Too many simultaneous animations.
+
+24.3 Consistent components
+
+Use a unified design system for:
+
+- Buttons.
+- Forms.
+- Modals.
+- Progress bars.
+- Charts.
+- Calendar cells.
+- Dropdowns.
+- Navigation.
+- Cards.
+- Empty states.
+
+24.4 Responsive experience
+
+Ensure the interface works on:
+
+- Android.
+- iPhone.
+- Tablets.
+- Laptops.
+- Desktop monitors.
+
+Use mobile-first layouts where appropriate.
+
+24.5 Accessibility
+
+Provide readable text, keyboard navigation where applicable, clear focus indicators and reduced-motion settings.
+
+---
+
+SECTION 25 — ANIMATION AND INTERACTION
+
+Add meaningful animations to:
+
+- 3D navigation.
+- Page transitions.
+- Character idle states.
+- Mission completion.
+- Habit completion.
+- Goal milestones.
+- Progress bar updates.
+- XP rewards.
+- Achievement unlocks.
+- Character evolution.
+- Modal transitions.
+- Calendar navigation.
+- Analytics period changes.
+
+Animations must communicate state changes.
+
+Do not animate every element unnecessarily.
+
+Include sound controls and a global mute option.
+
+---
+
+SECTION 26 — CRITICAL APPLICATION STABILITY
+
+Fix existing issues at their root.
+
+Requirements:
+
+1. Saving must not reload the application.
+2. Editing a habit must not close the page.
+3. Updating a goal must not reset the dashboard.
+4. Changing calendar dates must not reset navigation.
+5. Clicking inside forms must not trigger page navigation.
+6. Modals must not close unexpectedly.
+7. Dropdowns must remain usable.
+8. Date pickers must work correctly.
+9. Duplicate submissions must be prevented.
+10. Duplicate XP rewards must be prevented.
+11. Unsaved data must be protected.
+12. Database errors must be handled.
+13. Network failures must not silently delete data.
+14. Stable keys must be used in React lists.
+15. Explicit button types must be used.
+16. State management must be reliable.
+17. Existing account data must remain intact.
+
+---
+
+SECTION 27 — TESTING AND ACCEPTANCE CRITERIA
+
+Do not declare completion based on appearance alone.
+
+Test the following systematically.
+
+A. Authentication
+
+- Google login works.
+- Logout works.
+- Same-account login restores data.
+- Different accounts have separate records.
+- Sessions persist appropriately.
+
+B. Universal Calendar
+
+- Habits appear.
+- Tasks appear.
+- Goal deadlines appear.
+- Goal milestones appear.
+- Study sessions appear.
+- Exams appear.
+- Workouts appear.
+- Journal entries appear.
+- Health records appear.
+- Historical dates work.
+- Date filters work.
+- Daily detail panels work.
+
+C. Individual Habit Calendars
+
+- Every habit has its own calendar.
+- Completed days are visible.
+- Missed days are visible.
+- Unscheduled days are distinct.
+- Historical records can be opened.
+- Streak calculations are accurate.
+- Heatmaps use actual data.
+
+D. Tasks
+
+- Tasks can be created.
+- Tasks can be edited.
+- Due dates work.
+- Rescheduling works.
+- Completed tasks remain historical.
+- Overdue tasks are correctly identified.
+
+E. Goals
+
+- Goals can be created.
+- Milestones work.
+- Progress bars update.
+- Deadlines appear in the calendar.
+- Historical progress remains available.
+
+F. Journal
+
+- Multiple entries can be created.
+- Old entries can be edited.
+- Reflection answers are date-specific.
+- Questions are customizable.
+- Historical entries persist.
+- Calendar indicators work.
+
+G. Academics and Fitness
+
+- Study sessions save correctly.
+- Study graphs work.
+- Workout records save correctly.
+- Fitness graphs work.
+- Individual targets work.
+- Records appear on the universal calendar.
+
+H. Analytics
+
+- Daily graphs work.
+- Weekly graphs work.
+- Monthly graphs work.
+- Yearly graphs work.
+- Period comparisons work.
+- Individual habit analytics work.
+- Goal analytics work.
+- Global analytics work.
+- Empty states work.
+- No fake statistics appear.
+
+I. 3D Experience
+
+- The main environment renders.
+- Interactive locations work.
+- Camera transitions work.
+- Pages open correctly.
+- Back navigation works.
+- Mobile performance is acceptable.
+- Reduced-motion mode works.
+
+J. Data persistence
+
+- Refresh does not erase data.
+- Logout does not erase data.
+- Reinstallation does not erase cloud data.
+- Another device restores the same account.
+- Existing account data remains intact.
+
+---
+
+SECTION 28 — DEVELOPMENT PRIORITIES
+
+Do not spend all development time on visual effects.
+
+Implement in the following order.
+
+PHASE 1 — CORE FUNCTIONALITY
+
+- Inspect the existing application.
+- Preserve existing records.
+- Fix critical bugs.
+- Complete Google authentication.
+- Confirm cloud database persistence.
+- Build universal calendar.
+- Build individual habit calendars.
+- Complete habit tracking.
+- Complete task management.
+- Complete goals and milestones.
+
+PHASE 2 — PROGRESS MEASUREMENT
+
+- Build progress bars.
+- Build daily graphs.
+- Build weekly graphs.
+- Build monthly graphs.
+- Build yearly graphs.
+- Build period comparisons.
+- Build heatmaps.
+- Build global analytics.
+
+PHASE 3 — PERSONAL DEVELOPMENT
+
+- Complete journal.
+- Complete daily questions.
+- Complete self-reflection.
+- Complete academics.
+- Complete fitness.
+- Complete health.
+- Complete My Journey.
+
+PHASE 4 — RPG EXPERIENCE
+
+- Build interactive 3D world.
+- Build location transitions.
+- Build character progression.
+- Build missions.
+- Build achievements.
+- Build growth map.
+- Add cinematic animations.
+
+PHASE 5 — CUSTOMIZATION AND POLISH
+
+- Dashboard customization.
+- Editable categories.
+- Editable questions.
+- Appearance settings.
+- Mobile optimization.
+- Accessibility.
+- Complete testing.
+
+Each phase must be genuinely implemented before moving to the next.
+
+---
+
+SECTION 29 — STRICT INSTRUCTIONS TO THE APP BUILDER
+
+Read these instructions carefully.
+
+1. Do not replace the existing application with a login page.
+2. Do not create only a 3D Dojo.
+3. Do not create only a landing page.
+4. Do not create a decorative dashboard without working functionality.
+5. Do not omit the Habits section.
+6. Do not omit the Tasks section.
+7. Do not omit the Goals section.
+8. Do not omit the universal calendar.
+9. Do not restrict the calendar to journaling.
+10. Do not omit individual habit calendars.
+11. Do not omit progress bars.
+12. Do not omit weekly graphs.
+13. Do not omit monthly graphs.
+14. Do not omit yearly graphs.
+15. Do not omit goal analytics.
+16. Do not omit habit analytics.
+17. Do not omit academic analytics.
+18. Do not omit fitness analytics.
+19. Do not omit self-reflection.
+20. Do not create artificial activity history.
+21. Do not invent statistics.
+22. Do not create nonfunctional buttons.
+23. Do not remove existing data.
+24. Do not reset existing character progression.
+25. Do not make all content permanently hardcoded.
+26. Do not introduce unnecessary pages.
+27. Do not sacrifice usability for visual complexity.
+28. Do not claim a feature works without testing it.
+
+If a feature is unsupported by the current technology, identify the limitation and implement the best functional alternative.
+
+If backend configuration is missing, provide the exact required configuration rather than pretending cloud functionality is complete.
+
+---
+
+SECTION 30 — FINAL PRODUCT EXPERIENCE
+
+The final application must feel like entering my own personal anime RPG universe.
+
+I open SAMURAI.
+
+I see my current character and my current week.
+
+I enter the Training Grounds to complete my habits.
+
+I visit the Mission Board to see my tasks.
+
+I visit the Goal Shrine to track my objectives.
+
+I enter the Reflection Garden to write my journal and answer my daily questions.
+
+I visit the Knowledge Temple to track my academics.
+
+I enter the Fitness Arena to record workouts and monitor strength progression.
+
+I open the universal calendar and see everything I did on any date.
+
+I open an individual habit and see its complete yearly history.
+
+I visit the Progress Observatory and see my daily, weekly, monthly and yearly graphs.
+
+I visit the Growth Map and see which areas of my life are developing.
+
+I enter the Samurai Chamber and see my character evolving through actual effort.
+
+I can return after six months or one year and review my entire history.
+
+My data remains safe in the cloud.
+
+My journey begins at Week 1, Day 1.
+
+No artificial achievements.
+
+No fake statistics.
+
+No unnecessary complexity.
+
+No decorative features pretending to be functional.
+
+A complete personal development system presented as an immersive 3D RPG.
+
+---
+
+FINAL ACCEPTANCE STATEMENT
+
+The project is complete ONLY when:
+
+- The entire productivity system works.
+- The universal calendar connects every module.
+- Every habit has its own historical calendar.
+- Tasks and goals have functional scheduling and deadlines.
+- Every important category has measurable progress.
+- Graphs accurately represent actual historical records.
+- The journal and self-reflection systems work.
+- Academic and fitness tracking work.
+- The 3D environment has real interactive navigation.
+- Character progression reflects real activity.
+- Google authentication and cloud persistence work.
+- Existing user data remains safe.
+- The application is clean, aesthetic and responsive.
+
+SAMURAI IS NOT JUST A GAME THAT LOOKS LIKE PERSONAL DEVELOPMENT.
+
+IT IS A PERSONAL DEVELOPMENT SYSTEM THAT FEELS LIKE A GAME.
+
+SAMURAI
+
+EVERY DAY IS TRAINING.
+
+EVERY ACTION IS RECORDED.
+
+EVERY EFFORT COUNTS.
+
+EVERY WEEK IS EVOLUTION.

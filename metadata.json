@@ -1,0 +1,6 @@
+{
+  "name": "SAMURAI",
+  "description": "The Ultimate 3D Personal Growth Operating System - Demon Slayer inspired RPG life manager",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
